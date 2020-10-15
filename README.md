@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I'm Nabil Ziani! 👋
+*Student Web Development*
 
+### What I'm focusing on 👨‍💻
+Currently learning ASP.Net
 <!--
 **nabil-ziani/nabil-ziani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
