@@ -1,7 +1,7 @@
-### Hi there, I'm Nabil Ziani! 👋
+### 👋 Hi there, I'm Nabil Ziani!
 *Student Web Development*
 
-### What I'm focusing on 👨‍💻
+### What I'm focusing on
 My education + an interesting case for Logitail ;)
 
 ### 🌱 Currently learning
