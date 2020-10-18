@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Nabil Ziani!
+# 👋 Hi there, I'm Nabil Ziani!
 *I love programming and cats!* :smile_cat:
 
 ### What I'm focusing on
