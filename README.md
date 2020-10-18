@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Nabil Ziani!
-*Student Web Development*
+*I love programming and cats!* :smile_cat:
 
 ### What I'm focusing on
 My education + an interesting case for Logitail ;)
