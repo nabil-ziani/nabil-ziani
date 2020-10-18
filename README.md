@@ -5,8 +5,8 @@
 My education + an interesting case for Logitail ;)
 
 ### 🌱 Currently learning
-..* Suitescript
-..* ASP .NET
+* Suitescript
+* ASP .NET
 
 <!--
 **nabil-ziani/nabil-ziani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
