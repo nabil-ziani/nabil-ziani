@@ -1,8 +1,13 @@
-### Hi, I'm Nabil Ziani! 👋
+### Hi there, I'm Nabil Ziani! 👋
 *Student Web Development*
 
 ### What I'm focusing on 👨‍💻
-Currently learning ASP.Net
+My education + an interesting case for Logitail ;)
+
+### 🌱 Currently learning
+..* Suitescript
+..* ASP .NET
+
 <!--
 **nabil-ziani/nabil-ziani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
