@@ -4,6 +4,15 @@
 ### What I'm focusing on
 My education + an interesting case for Logitail :wink:
 
+## Skills
+* HTML & CSS
+* Javascript, NodeJS, Express.js
+* React Native
+* C#
+* MySQL, MongoDB
+* Version control -> Git, Bitbucket
+* SCRUM -> Jira, Asana
+
 ### 🌱 Currently learning
 * Suitescript
 * ASP .NET
