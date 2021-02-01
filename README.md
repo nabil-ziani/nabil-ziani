@@ -1,21 +1,18 @@
 # 👋 Hi there, I'm Nabil Ziani!
 *I love programming and cats!* :smile_cat:
 
-### What I'm focusing on
-My education + an interesting case for Logitail :wink:
-
 ## Skills
 * HTML & CSS
 * Javascript, NodeJS, Express.js
 * React Native
-* C#
+* C#, ASP .NET
 * MySQL, MongoDB
 * Version control -> Git, Bitbucket
 * SCRUM -> Jira, Asana
 
+
 ### 🌱 Currently learning
-* Suitescript
-* ASP .NET
+* React + Typescript
 
 <!--
 **nabil-ziani/nabil-ziani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
