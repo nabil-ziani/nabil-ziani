@@ -14,9 +14,9 @@ It's like of a Netflix-clone with a dashboard for an admin through wich visual/f
 * Version control -> Git, Bitbucket
 * SCRUM -> Jira, Asana
 
-### 🌱 Currently learning
+<!-- ### 🌱 Currently learning
 * Learning React Native & Typescript by putting it into practice 😉
-
+-->
 <!--
 **nabil-ziani/nabil-ziani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
