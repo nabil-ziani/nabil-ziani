@@ -3,7 +3,7 @@
 
 ## 🔭 Current work
 Currently doing my internship at Brightest where I develop a mobile application written in React Native & Typescript. 
-It's like of a Netflix-clone with a dashboard for an admin through wich he can enable certain bugs.
+It's like of a Netflix-clone with a dashboard for an admin through wich visual/functional bugs can be enabled.
 
 ## Skills
 * HTML & CSS
