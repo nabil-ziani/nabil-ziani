@@ -2,8 +2,9 @@
 *I love programming and cats!* :smile_cat:
 
 ## 🔭 Current work
-Currently doing an internship at Brightest, I'm developing a mobile application wich let's a user rent movies (Netflix-clone).
-This app is written in React Native and has an admin section through wich an administrator can enable certain bugs throughout the application.
+Currently doing my internship at Brightest where I develop a mobile application written in React Native. 
+The applicacation is kind of a Netflix-clone wich let's a user rent movies. Another section of the app is a dashboard for an administrator.
+Through this dashboard an admin can enable certain bugs (visual/functional) on the app.
 
 ## Skills
 * HTML & CSS
