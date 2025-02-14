@@ -1,27 +1,27 @@
-# 👋 Hi there, I'm Nabil Ziani!  
+# 👋 Hi there, I'm Nabil!  
 *I love programming and cats!* 😺
 
-## 🔭 Current work  
-Currently working as a **Test Automation Engineer** at Brightest where I develop tailored test automation frameworks for Mediahuis, Atlas Copco, and Delta using **WebdriverIO**, **Katalon Studio**, **Appium**, and **Typescript**. I also manage CI/CD pipelines using **Azure Pipelines** and **GitLab**.
+## 🔭 Current Focus  
+I'm currently diving into **Solidity** and **Blockchain Development**. I'm truly fascinated by the world of **Web3** and smart contracts, and I'm working towards becoming a **Web3 Security Auditor**. Blockchain security and auditing are my passion, and I'm eager to make an impact in the space.
 
 ## 🛠️ Skills  
-- **Languages & Frameworks**:  
+- **Languages & Frameworks**:
+  - Solidity, Foundry
   - C#, ASP.NET, Blazor  
   - Javascript, Typescript, NodeJS, Express.js  
   - HTML & CSS  
   - React Native  
-  - Entity Framework, Dapper  
 - **Databases**:  
-  - MySQL, MongoDB  
+  - MySQL, MongoDB, Postgres  
 - **Tools**:  
   - Git, Bitbucket, Azure DevOps  
   - Postman, Selenium  
   - CMS: Optimizely, Kentico, Contentstack  
   - CI/CD: GitLab, Azure Pipelines  
-  - Test Automation: WebdriverIO, Appium, Katalon Studio  
+  - Test Automation: WebdriverIO, Appium, Katalon Studio, Cypress, Playwright  
 
 ## 📈 Experience  
-- **Test Automation Engineer, Brightest Kontich** (Sep 2023 — Present)  
+- **Test Automation Engineer, Brightest Kontich** (Sep 2023 — Dec 2024)  
   Developed tailored test automation frameworks for companies, working with **Jira**, **GitLab**, **Appium**, and **Typescript**.
   
 - **Developer, Delaware Kortrijk** (Mar 2022 — Sep 2023)  
