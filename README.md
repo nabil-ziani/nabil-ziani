@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Nabil!  
-*I love programming and cats!* 😺
+*Blockchain Enthusiast who absolutely loves the Web3 space!* 🚀
+
+I'm a **Blockchain Enthusiast** passionate about **Web3**, **smart contracts**, and **blockchain security**. My goal is to become a **Web3 Security Auditor** and contribute to a safer decentralized world.
 
 ## 🔭 Current Focus  
 I'm currently diving into **Solidity** and **Blockchain Development**. I'm truly fascinated by the world of **Web3** and smart contracts, and I'm working towards becoming a **Web3 Security Auditor**. Blockchain security and auditing are my passion, and I'm eager to make an impact in the space.
