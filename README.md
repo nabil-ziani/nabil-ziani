@@ -8,11 +8,12 @@ I'm currently diving into **Solidity** and **Blockchain Development**. I'm truly
 
 ## 🛠️ Skills  
 - **Languages & Frameworks**:
-  - Solidity, Foundry
-  - C#, ASP.NET, Blazor  
-  - Javascript, Typescript, NodeJS, Express.js  
+  - Solidity, Foundry   
+  - Javascript, Typescript, NodeJS, Express.js
+  - Next.js
   - HTML & CSS  
-  - React Native  
+  - React Native
+  - C#, ASP.NET, Blazor
 - **Databases**:  
   - MySQL, MongoDB, Postgres  
 - **Tools**:  
